@@ -1,15 +1,30 @@
-body {
-    color: forestgreen;
-    text-align: center;
-    background-color: black;
-}
-
 a{
-    color:forestgreen;
-
+    margin-left: 10px;
+    margin-right: 10px;
+}
+body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font:menu;
+    font-size: medium;
+}
+h1, h2, h3, h4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    list-style-position:inside;
+    text-align:center;
+    color:tomato;
 }
 footer {
     text-align: center;
-    background-color: black;
-    fill: burlywood;
 }
