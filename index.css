@@ -1,3 +1,15 @@
-footer{
-  justify-content: center;
+body {
+    color: forestgreen;
+    text-align: center;
+    background-color: black;
+}
+
+a{
+    color:forestgreen;
+
+}
+footer {
+    text-align: center;
+    background-color: black;
+    fill: burlywood;
 }
